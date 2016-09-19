@@ -1,6 +1,7 @@
 dist/
 node_modules/
 npm-debug.log*
+angular-cli.iml
 
 # IDEs
 .idea/
